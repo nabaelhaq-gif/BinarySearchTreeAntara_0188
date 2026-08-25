@@ -119,3 +119,10 @@ public :
 
 };
 
+int main()
+{
+    //deklarasi object x sebagai object BinaryTree
+    BinaryTree x;
+
+    
+}
